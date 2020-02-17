@@ -1,0 +1,51 @@
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\bin\Debug\kursovaya2.exe.config
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\bin\Debug\kursovaya2.exe
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\bin\Debug\kursovaya2.pdb
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.MainForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.Properties.Resources.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csproj.GenerateResource.cache
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.exe
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.pdb
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.passwordForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.searchForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.watchAuditoriumsForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.watchTimetableForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesAuditoriumsForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesTimetableForm.resources
+C:\Users\Ирина\Desktop\лабы\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csprojAssemblyReference.cache
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\bin\Debug\kursovaya2.exe.config
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\bin\Debug\kursovaya2.exe
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\bin\Debug\kursovaya2.pdb
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csprojAssemblyReference.cache
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesAuditoriumsForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesTimetableForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.MainForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.passwordForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.Properties.Resources.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.searchForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.watchAuditoriumsForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.watchTimetableForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csproj.GenerateResource.cache
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.exe
+C:\Users\Ирина\Desktop\ПИ\приложение\с расширенным поиском\kursovaya2\kursovaya2\obj\Debug\kursovaya2.pdb
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csprojAssemblyReference.cache
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesAuditoriumsForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.changesTimetableForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.MainForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.passwordForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.Properties.Resources.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.searchForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.watchAuditoriumsForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.watchTimetableForm.resources
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csproj.GenerateResource.cache
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.exe
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\obj\Debug\kursovaya2.pdb
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\bin\Debug\kursovaya2.exe.config
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\bin\Debug\kursovaya2.exe
+C:\Users\Ирина\Desktop\ПИ\приложение\только gui\kursovaya2\kursovaya2\bin\Debug\kursovaya2.pdb
